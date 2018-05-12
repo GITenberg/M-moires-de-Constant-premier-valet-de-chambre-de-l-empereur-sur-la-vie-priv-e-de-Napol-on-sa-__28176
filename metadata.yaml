@@ -1,0 +1,39 @@
+_repo: M-moires-de-Constant-premier-valet-de-chambre-de-l-empereur-sur-la-vie-priv-e-de-Napol-on-sa-__28176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wairy, Louis Constant
+    aliases:
+    - Wairy, Constant
+    - Constant, Louis Constant Wairy, known as
+    birthdate: 1778
+    deathdate: 1845
+    gutenberg_agent_id: '1228'
+    url: http://www.gutenberg.org/2009/agents/1228
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Louis_Constant_Wairy
+    - http://fr.wikipedia.org/wiki/Louis_Constant_Wairy
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2009-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28176'
+  lccn: '04012353'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- !lcsh 'Valets -- France -- Biography'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with valets'
+- !lcsh 'Wairy, Louis Constant, 1778-1845'
+- !lcc 'DC'
+title: Mémoires de Constant, premier valet de chambre de l'empereur, sur la vie privée
+  de Napoléon, sa famille et sa cour.
+url: http://www.gutenberg.org/ebooks/28176

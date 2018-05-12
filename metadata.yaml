@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Louis_Constant_Wairy
     - http://fr.wikipedia.org/wiki/Louis_Constant_Wairy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28176#M-moires-de-Constant-premier-valet-de-chambre-de-l-empereur-sur-la-vie-priv-e-de-Napol-on-sa-_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2009-02-24'
 gutenberg_type: Text
